@@ -1,0 +1,30 @@
+Requirements
+*************
+chromedriver
+Python 3.6
+
+
+Instructions to execute the automation
+**************************************
+
+1- create a virtualenvironment
+
+py -3 -m venv /path/to/environment
+
+2- activate environment
+
+Execute script /path/to/environment/Scripts/activate , according to your O.S system
+
+3-  install dependencies
+
+pip3 install -r requirements
+
+4-  Edit the configuration file
+
+cd conf/
+
+Edit the file conf_tuenti.yml
+
+	- Set the absolute path to the webdriver in the driver section. By default the application will use chromedriver. Optionally Firefox, or IE can be used, by changing the key "chrome" by "firefox" or "explorer"
+
+	- Set the dataset in the credentials section according to the user and url that will be tested with.

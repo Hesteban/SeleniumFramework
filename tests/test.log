@@ -1,0 +1,106 @@
+02/15/2019 11:56:21 AM - testunittest - INFO: Executing Setup Class
+02/15/2019 11:56:21 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:56:25 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:56:28 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:56:28 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:56:28 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:56:29 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="6f700ac48d328e90c6465147246f3bff", element="0.2507746771192887-1")>
+02/15/2019 11:56:29 AM - testunittest - INFO: Executing test: test_10_Login_using_phonenumber
+02/15/2019 11:56:29 AM - SeleniumDriver - DEBUG: Element found with locator: rememberMe and  locatorType: id
+02/15/2019 11:56:29 AM - SeleniumDriver - DEBUG: Remembeme check set to True
+02/15/2019 11:56:29 AM - SeleniumDriver - DEBUG: Element found with locator: //label[@for="rememberMe"] and  locatorType: xpath
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="6f700ac48d328e90c6465147246f3bff", element="0.2520014599001841-2")>
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Remembeme check set to False
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Element found with locator: user and  locatorType: id
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Sent data on element with locator: user locatorType: id
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Element found with locator: password and  locatorType: id
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Sent data on element with locator: password locatorType: id
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Element found with locator: submit and  locatorType: id
+02/15/2019 11:56:30 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="6f700ac48d328e90c6465147246f3bff", element="0.2520014599001841-5")>
+02/15/2019 11:56:30 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:56:30 AM - SeleniumDriver - INFO: Waiting for maximum :: 20seconds for element with Locator : topnavbar and locator type: id is visible
+02/15/2019 11:56:36 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:56:36 AM - testunittest - INFO: Executing test tearDown
+02/15/2019 11:56:38 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:56:42 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:56:44 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:56:44 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:56:44 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="5b6281bdf3f47964d0a63106f2cd369e", element="0.22153515562177017-1")>
+02/15/2019 11:56:46 AM - testunittest - INFO: Executing test: test_20_Login_using_email
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Element found with locator: rememberMe and  locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Remembeme check set to True
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Element found with locator: //label[@for="rememberMe"] and  locatorType: xpath
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="5b6281bdf3f47964d0a63106f2cd369e", element="0.3074131791346484-2")>
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Remembeme check set to False
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Element found with locator: user and  locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Sent data on element with locator: user locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Element found with locator: password and  locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Sent data on element with locator: password locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Element found with locator: submit and  locatorType: id
+02/15/2019 11:56:46 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="5b6281bdf3f47964d0a63106f2cd369e", element="0.3074131791346484-5")>
+02/15/2019 11:56:46 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:56:46 AM - SeleniumDriver - INFO: Waiting for maximum :: 20seconds for element with Locator : topnavbar and locator type: id is visible
+02/15/2019 11:56:53 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:56:53 AM - testunittest - INFO: Executing test tearDown
+02/15/2019 11:56:55 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:56:58 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:57:01 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:01 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:57:01 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="7a2ffa2897d7c6f6bb88cfe4e866814a", element="0.3297929374421402-1")>
+02/15/2019 11:57:03 AM - testunittest - INFO: Executing test: test_30_Login_using_wrong_credentials
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Element found with locator: user and  locatorType: id
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Sent data on element with locator: user locatorType: id
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Element found with locator: password and  locatorType: id
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Sent data on element with locator: password locatorType: id
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Element found with locator: submit and  locatorType: id
+02/15/2019 11:57:03 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="7a2ffa2897d7c6f6bb88cfe4e866814a", element="0.7797020164738826-3")>
+02/15/2019 11:57:03 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:03 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : errorMessage and locator type: id is visible
+02/15/2019 11:57:04 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:04 AM - testunittest - INFO: Executing test tearDown
+02/15/2019 11:57:06 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:57:09 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:57:12 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:12 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:57:12 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:14 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="80cbb54a754346980a962fb854f43f81", element="0.8523587313600367-1")>
+02/15/2019 11:57:14 AM - testunittest - INFO: Executing test: test_40_ChangePassword_is_shown
+02/15/2019 11:57:14 AM - SeleniumDriver - DEBUG: Element found with locator: //a[contains(text(),"acceder")] and  locatorType: xpath
+02/15/2019 11:57:15 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="80cbb54a754346980a962fb854f43f81", element="0.34552600284721535-1")>
+02/15/2019 11:57:15 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:15 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : password-recovery and locator type: id is visible
+02/15/2019 11:57:15 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:15 AM - testunittest - INFO: Executing test tearDown
+02/15/2019 11:57:17 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:57:21 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:57:24 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:24 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:57:24 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:25 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="c83102d47597b12efc8a9dec5df4097d", element="0.258170474503171-1")>
+02/15/2019 11:57:25 AM - testunittest - INFO: Executing test: test_50_RegisterForm_is_shown
+02/15/2019 11:57:25 AM - SeleniumDriver - DEBUG: Element found with locator: //a[contains(text(),"Regístrate")] and  locatorType: xpath
+02/15/2019 11:57:26 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="c83102d47597b12efc8a9dec5df4097d", element="0.14477705209340042-1")>
+02/15/2019 11:57:26 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:26 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : registerForm and locator type: id is visible
+02/15/2019 11:57:26 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:26 AM - testunittest - INFO: Executing test tearDown
+02/15/2019 11:57:29 AM - testunittest - INFO: Executing test setup
+02/15/2019 11:57:32 AM - testunittest - INFO: url: https://www.tuenti.es/
+02/15/2019 11:57:37 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:37 AM - SeleniumDriver - INFO: Waiting for maximum :: 10seconds for element with Locator : //a[contains(text(),"Entrar")] and locator type: xpath is visible
+02/15/2019 11:57:37 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="1efbf917dc5f7df581921c8be1e0912c", element="0.8597739506428683-1")>
+02/15/2019 11:57:38 AM - testunittest - INFO: Executing test: test_60_NavBar_elements_are_correct
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Element found with locator: user and  locatorType: id
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Sent data on element with locator: user locatorType: id
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Element found with locator: password and  locatorType: id
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Sent data on element with locator: password locatorType: id
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Element found with locator: submit and  locatorType: id
+02/15/2019 11:57:38 AM - SeleniumDriver - DEBUG: Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="1efbf917dc5f7df581921c8be1e0912c", element="0.4868294007350018-3")>
+02/15/2019 11:57:38 AM - SeleniumDriver - INFO: Estamos dentro del waitforElementVisible
+02/15/2019 11:57:38 AM - SeleniumDriver - INFO: Waiting for maximum :: 20seconds for element with Locator : topnavbar and locator type: id is visible
+02/15/2019 11:57:45 AM - SeleniumDriver - INFO: Element is visible on the web page
+02/15/2019 11:57:45 AM - SeleniumDriver - DEBUG: Element list found with locator: //ul[@id='topnavbar-main-navigation']/li/a and  locatorType: xpath
+02/15/2019 11:57:45 AM - testunittest - INFO: Executing test tearDown
